@@ -31,7 +31,7 @@ _About Me_
 <br />
 
 > [!NOTE]
-> Currently learning `Web Scraping` and `Electron.js`
+> Currently learning `AI`, `Web Scraping` and `Electron.js`
 
 
 
